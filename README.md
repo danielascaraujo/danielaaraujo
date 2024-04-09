@@ -5,9 +5,6 @@
 
 - 🌱 I’m currently learning **Full Stack Java Developer** and **Python AI Backend Developer.**
 
-- 👨‍💻 All of my projects are available at <a href="https://github.com/danielascaraujo?tab=projects" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="daniela's projects" height="30" width="40" /></a>
-
-- ⚡ Fun fact **I love reading and binge-watching series.**
 <br>
 
 ## Connect with me:
