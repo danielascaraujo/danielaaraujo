@@ -3,9 +3,7 @@
 <h3>I'm an aspiring software developer from Sao Paulo/SP, Brazil, with a degree in Accounting and an Executive MBA in Finance. And now I have decided to begin this new journey to learn how to code.</h3>
 <br>
 
-- 🌱 I’m currently learning **Full Stack Java Developer** and **Python AI Backend Developer.**
 
-<br>
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-C0C0C0?style=for-the-badge&logo=linkedin&logoColor=663399)](https://www.linkedin.com/in/danielascaraujo/)
